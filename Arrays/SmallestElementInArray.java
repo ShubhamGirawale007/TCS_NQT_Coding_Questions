@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 import java.util.*;
 public class Main{
 static int smallest(int[] arr){
@@ -50,4 +50,4 @@ arr[i] = sc.nextInt();
 System.out.println(smallest(arr));
 }
 }
->>>>>>> b816ae84a3b27f53cf51eb8ace898d33e80a7123
+
